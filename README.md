@@ -1,4 +1,4 @@
-# AI Tools Aggregator
+# AI Toolkit
 
 **Last Updated:** 2026-10-27
 
@@ -7,7 +7,7 @@ A curated, growing collection of AI tools, agent harnesses, skills, plugins, and
 ## Directory map
 
 ```
-ai-tools-aggregator/
+ai-toolkit/
 ├── README.md                  # This index
 ├── catalog/                   # Curated public resources by category
 │   ├── orchestration.md
