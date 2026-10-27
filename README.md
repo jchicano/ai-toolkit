@@ -14,7 +14,8 @@ ai-tools-aggregator/
 │   ├── design.md
 │   ├── gateways.md
 │   ├── browser-testing.md
-│   └── skill-management.md
+│   ├── skill-management.md
+│   └── marketing.md
 ├── claude-code/               # Claude Code harness reference
 │   ├── README.md
 │   ├── harness.md
@@ -35,6 +36,7 @@ ai-tools-aggregator/
 - [AI Gateways](catalog/gateways.md)
 - [Browser & Testing](catalog/browser-testing.md)
 - [Skill Management](catalog/skill-management.md)
+- [Marketing & Growth](catalog/marketing.md)
 
 ### Claude Code harness
 - [Overview](claude-code/README.md)
