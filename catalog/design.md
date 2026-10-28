@@ -1,10 +1,11 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-10-27
+**Last Updated:** 2026-10-28
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
 ## Tools
+- **[Anime.js](https://animejs.com/)** — JavaScript animation engine ([juliangarnier/anime](https://github.com/juliangarnier/anime)). Lightweight API for timeline, stagger, SVG, and CSS-driven motion in the browser.
 - **[claude-webkit](https://github.com/hainrixz/claude-webkit)** — Automated landing page builder. No-code website generator with 21 bundled skills, professional design output, and Vercel deployment.
 
 ## Design systems (DESIGN.md)
