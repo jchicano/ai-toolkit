@@ -16,7 +16,8 @@ ai-toolkit/
 │   ├── browser-testing.md
 │   ├── skill-management.md
 │   ├── marketing.md
-│   └── diagrams.md
+│   ├── diagrams.md
+│   └── launch.md
 ├── claude-code/               # Claude Code harness reference
 │   ├── README.md
 │   ├── harness.md
@@ -39,6 +40,7 @@ ai-toolkit/
 - [Skill Management](catalog/skill-management.md)
 - [Marketing & Growth](catalog/marketing.md)
 - [Diagrams & Visualization](catalog/diagrams.md)
+- [Launch & Sharing](catalog/launch.md)
 
 ### Claude Code harness
 - [Overview](claude-code/README.md)
