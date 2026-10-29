@@ -1,6 +1,6 @@
 # AI Toolkit
 
-**Last Updated:** 2026-10-28
+**Last Updated:** 2026-10-29
 
 A curated, growing collection of AI tools, agent harnesses, skills, plugins, and resources. It started as a single gist documenting a Claude Code setup and is now organized into a browsable repository. The `catalog/` holds public, curated resources by category; `claude-code/` documents a full Claude Code harness (plugins, skills, tools, commands).
 
