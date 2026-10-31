@@ -1,12 +1,13 @@
 # Claude Code Plugins
 
-**Last Updated:** 2026-10-27
+**Last Updated:** 2026-10-31
 
 > Part of the [Claude Code harness reference](harness.md). Source gist last updated 2026-09-22.
 
 ## Official Plugins
 - **superpowers@claude-plugins-official** - Official Claude Code superpowers plugin
 - **code-review** (built-in) - Code review with GitHub integration (requires `gh` CLI)
+- **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** — Official Anthropic role plugins for Cowork/Claude Code (sales, marketing, PM, finance, legal, data, support, etc.). See [catalog/skill-management.md](../catalog/skill-management.md).
 
 ## Third-Party Plugins
 - **ecc@ecc** (v2.2.1)
