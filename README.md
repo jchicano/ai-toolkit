@@ -20,7 +20,8 @@ ai-toolkit/
 │   ├── diagrams.md
 │   ├── launch.md
 │   ├── context.md
-│   └── simulation.md
+│   ├── simulation.md
+│   └── reverse-engineering.md
 ├── claude-code/               # Claude Code harness reference
 │   ├── README.md
 │   ├── harness.md
@@ -47,6 +48,7 @@ ai-toolkit/
 - [Launch & Sharing](catalog/launch.md)
 - [Context & Codebase Packing](catalog/context.md)
 - [Multi-Agent Simulation & Prediction](catalog/simulation.md)
+- [Reverse Engineering & Binary Analysis](catalog/reverse-engineering.md)
 
 ### Claude Code harness
 - [Overview](claude-code/README.md)

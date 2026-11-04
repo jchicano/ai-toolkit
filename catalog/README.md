@@ -16,6 +16,7 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 | [launch.md](launch.md) | Launch & sharing |
 | [context.md](context.md) | Context & codebase packing |
 | [simulation.md](simulation.md) | Multi-agent simulation & prediction |
+| [reverse-engineering.md](reverse-engineering.md) | Reverse engineering & binary analysis |
 
 ## How to add an entry
 
