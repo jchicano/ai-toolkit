@@ -26,7 +26,7 @@ Source: https://www.tasteskill.dev/
 - **stitch-design-taste** - Semantic Design System for Google Stitch
 
 ### UI UX Pro Max (7 skills)
-Source: https://uupm.cc/
+Source: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill · https://uupm.cc/
 
 - **banner-design** - Social media, ads, website heroes, print banners
 - **brand** - Brand voice, visual identity, messaging frameworks

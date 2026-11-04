@@ -18,6 +18,6 @@ Design systems, UI generators, and design-focused resources for AI agents.
 ## Design skill packs
 These are installed in the Claude Code harness; see [claude-code/skills.md](../claude-code/skills.md#design--ui-34-skills).
 - **[Taste-Skill](https://www.tasteskill.dev/)** — Anti-slop frontend design skill set (13 skills).
-- **[UI UX Pro Max](https://uupm.cc/)** — UI/UX design intelligence, branding, slides, and design systems (7 skills).
+- **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — AI design-intelligence skill (79 searchable UI styles, design-system generator). Site: [uupm.cc](https://uupm.cc/). Install CLI: `npm install -g ui-ux-pro-max-cli` then `uipro init --ai <assistant>`. Claude Code: `/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill` then `/plugin install ui-ux-pro-max@ui-ux-pro-max-skill`.
 - **[Impeccable](https://impeccable.style/)** — Complete design vocabulary for agents (critique, audit, polish, and more).
 - **[Emil Kowalski skills](https://emilkowal.ski/skill)** — Design engineering and animation (13 skills).
