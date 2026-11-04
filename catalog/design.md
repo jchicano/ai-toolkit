@@ -7,6 +7,7 @@ Design systems, UI generators, and design-focused resources for AI agents.
 ## Tools
 - **[Anime.js](https://animejs.com/)** — JavaScript animation engine ([juliangarnier/anime](https://github.com/juliangarnier/anime)). Lightweight API for timeline, stagger, SVG, and CSS-driven motion in the browser.
 - **[claude-webkit](https://github.com/hainrixz/claude-webkit)** — Automated landing page builder. No-code website generator with 21 bundled skills, professional design output, and Vercel deployment.
+- **[HTML Anything](https://github.com/nexu-io/html-anything)** — Agentic HTML editor: local coding-agent CLI writes ship-ready HTML (75 skills × 9 surfaces: magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes). Sandboxed preview; export WeChat/X/Zhihu/HTML/PNG. No API key. Site: [open-design.ai/html-anything](https://open-design.ai/html-anything/). Run: `pnpm install` then `pnpm -F @html-anything/next dev`.
 - **[MotionSites](https://motionsites.ai/)** — Library of AI website prompts and motion/3D landing-page inspiration for Lovable, Bolt, Cursor, and Claude. Free Claude skill: [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (`/plugin marketplace add Motionsites-AI/claude-skill` then `/plugin install motionsites-web-builder@motionsites`).
 
 ## Design systems (DESIGN.md)
