@@ -1,6 +1,6 @@
 # AI Toolkit
 
-**Last Updated:** 2026-10-31
+**Last Updated:** 2026-11-04
 
 A curated, growing collection of AI tools, agent harnesses, skills, plugins, and resources. It started as a single gist documenting a Claude Code setup and is now organized into a browsable repository. The `catalog/` holds public, curated resources by category; `claude-code/` documents a full Claude Code harness (plugins, skills, tools, commands).
 
@@ -18,7 +18,8 @@ ai-toolkit/
 │   ├── marketing.md
 │   ├── diagrams.md
 │   ├── launch.md
-│   └── context.md
+│   ├── context.md
+│   └── simulation.md
 ├── claude-code/               # Claude Code harness reference
 │   ├── README.md
 │   ├── harness.md
@@ -43,6 +44,7 @@ ai-toolkit/
 - [Diagrams & Visualization](catalog/diagrams.md)
 - [Launch & Sharing](catalog/launch.md)
 - [Context & Codebase Packing](catalog/context.md)
+- [Multi-Agent Simulation & Prediction](catalog/simulation.md)
 
 ### Claude Code harness
 - [Overview](claude-code/README.md)

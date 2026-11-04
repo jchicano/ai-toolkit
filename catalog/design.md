@@ -1,12 +1,13 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-10-28
+**Last Updated:** 2026-11-04
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
 ## Tools
 - **[Anime.js](https://animejs.com/)** — JavaScript animation engine ([juliangarnier/anime](https://github.com/juliangarnier/anime)). Lightweight API for timeline, stagger, SVG, and CSS-driven motion in the browser.
 - **[claude-webkit](https://github.com/hainrixz/claude-webkit)** — Automated landing page builder. No-code website generator with 21 bundled skills, professional design output, and Vercel deployment.
+- **[MotionSites](https://motionsites.ai/)** — Library of AI website prompts and motion/3D landing-page inspiration for Lovable, Bolt, Cursor, and Claude. Free Claude skill: [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (`/plugin marketplace add Motionsites-AI/claude-skill` then `/plugin install motionsites-web-builder@motionsites`).
 
 ## Design systems (DESIGN.md)
 - **[Awesome Design.md](https://github.com/voltagent/awesome-design-md)** — Curated collection of 73+ DESIGN.md files from major brands (Claude, Stripe, Figma, Notion, Apple, Tesla, Spotify). AI-readable design systems with color palettes, typography, and components. 60+ companies analyzed. 117k stars.
