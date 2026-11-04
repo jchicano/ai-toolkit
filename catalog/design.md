@@ -10,6 +10,7 @@ Design systems, UI generators, and design-focused resources for AI agents.
 - **[MotionSites](https://motionsites.ai/)** — Library of AI website prompts and motion/3D landing-page inspiration for Lovable, Bolt, Cursor, and Claude. Free Claude skill: [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (`/plugin marketplace add Motionsites-AI/claude-skill` then `/plugin install motionsites-web-builder@motionsites`).
 
 ## Design systems (DESIGN.md)
+- **[DESIGN.md (Google Labs)](https://github.com/google-labs-code/design.md)** — Format spec for describing a visual identity to coding agents (tokens + rationale). Lint/diff CLI: `npx @google/design.md lint DESIGN.md`. Spec: [stitch.withgoogle.com/docs/design-md/specification](https://stitch.withgoogle.com/docs/design-md/specification).
 - **[Awesome Design.md](https://github.com/voltagent/awesome-design-md)** — Curated collection of 73+ DESIGN.md files from major brands (Claude, Stripe, Figma, Notion, Apple, Tesla, Spotify). AI-readable design systems with color palettes, typography, and components. 60+ companies analyzed. 117k stars.
 - **[Refero Styles](https://styles.refero.design/)** — 2,000+ AI-readable design systems. DESIGN.md examples for AI agents. MCP integration.
 
