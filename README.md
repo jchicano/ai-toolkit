@@ -10,6 +10,7 @@ A curated, growing collection of AI tools, agent harnesses, skills, plugins, and
 ai-toolkit/
 ├── README.md                  # This index
 ├── catalog/                   # Curated public resources by category
+│   ├── README.md              # Catalog index
 │   ├── orchestration.md
 │   ├── design.md
 │   ├── gateways.md
@@ -35,6 +36,7 @@ ai-toolkit/
 ## Table of contents
 
 ### Catalog
+- [Overview](catalog/README.md)
 - [AI Agent Orchestration & Routing](catalog/orchestration.md)
 - [Frontend & Design Tools](catalog/design.md)
 - [AI Gateways](catalog/gateways.md)
@@ -58,7 +60,7 @@ ai-toolkit/
 
 ## How to use
 
-- Browse `catalog/` to discover tools by category.
+- Browse [`catalog/`](catalog/README.md) to discover tools by category.
 - Use `claude-code/` as a reference to reproduce or extend a Claude Code setup.
 - To add a resource, append a bullet to the matching catalog file using the format:
   ``- **[Name](url)** — short description. Install: `command` `` (install line optional).
