@@ -15,6 +15,8 @@ Where to find, assess, and install agent skills and plugins.
 
 - **[Claude Code Templates (aitmpl)](https://github.com/davila7/claude-code-templates)** — Open catalog (~1,900 components: skills, agents, commands, MCPs, hooks, mods, loops) plus a CLI to install/configure Claude Code; also analytics, chat browser, health check. Browse: [aitmpl.com](https://aitmpl.com). Docs: [docs.aitmpl.com](https://docs.aitmpl.com/). Install: `npx claude-code-templates@latest`.
 
+- **[i-have-adhd](https://github.com/ayghri/i-have-adhd)** — Skill/plugin that forces ADHD-friendly agent output: answer first, numbered steps, no fluff. Works across coding agents. See repo `INSTALL.md` / `AGENTS.md`.
+
 ## Install notes
 - Install a skill from GitHub: `npx skills add <github-org>/<repo>`
 - List installed skills: `ls -1 .agents/skills/`
