@@ -1,6 +1,6 @@
 # AI Agent Orchestration & Routing
 
-**Last Updated:** 2026-11-04
+**Last Updated:** 2026-11-05
 
 Tools for coordinating, routing, and running AI coding agents.
 
@@ -12,6 +12,8 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[CLI-Anything](https://github.com/HKUDS/CLI-Anything)** — Make any software agent-native via generated CLIs (hub of community harnesses for CAD, office apps, editors, etc.). Hub: [clianything.cc](https://clianything.cc/) / [hkuds.github.io/CLI-Anything](https://hkuds.github.io/CLI-Anything/). Install hub: `pip install cli-anything-hub` then `cli-hub install <name>`.
 - **[Orca](https://github.com/stablyai/orca)** — Orchestrator for fleets of coding agents (Claude Code, Codex, OpenCode, Pi, …): parallel git worktrees, desktop + mobile companion, remote runtime. Use your own subscriptions. Site: [orca.dev](https://orca.dev) / [onorca.dev](https://onorca.dev).
 - **[Cline](https://github.com/cline/cline)** — Autonomous coding agent as IDE extension, desktop app, CLI (`npm i -g cline`), or SDK. Site: [cline.bot](https://cline.bot). Docs: [docs.cline.bot](https://docs.cline.bot).
+- **[Pi](https://github.com/earendil-works/pi)** — Minimal, extensible coding-agent harness (unified LLM API, agent loop, TUI, CLI/SDK). Customize with extensions, skills, prompt templates, themes; share as Pi packages. Site: [pi.dev](https://pi.dev). Install: `curl -fsSL https://pi.dev/install.sh | sh` (or `npm i -g --ignore-scripts @earendil-works/pi-coding-agent`).
+- **[Traycer](https://github.com/traycerai/traycer)** — Open-source AI orchestration desktop app (“nerve center” for agentic coding): BYOA, shared context across models/providers, agent-to-agent loops, collaboration boards. Site: [traycer.ai](https://traycer.ai). Docs: [docs.traycer.ai](https://docs.traycer.ai).
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
 See also: [Claude Code plugins](../claude-code/plugins.md) for the installed ECC plugin.

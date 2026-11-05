@@ -1,6 +1,6 @@
 # Catalog
 
-**Last Updated:** 2026-11-04
+**Last Updated:** 2026-11-05
 
 Curated public AI tools, skills, plugins, and resources, grouped by category. Each file is a short list of links with one-line descriptions (install notes when useful).
 
