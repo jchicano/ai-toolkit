@@ -17,3 +17,5 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
 See also: [Claude Code plugins](../claude-code/plugins.md) for the installed ECC plugin.
+
+Special mention to [Jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
