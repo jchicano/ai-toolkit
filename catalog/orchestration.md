@@ -17,6 +17,8 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[OpenCode](https://github.com/anomalyco/opencode)** — Open-source AI coding agent (TUI, desktop, IDE): multi-session, any provider via Models.dev, free models included. Site: [opencode.ai](https://opencode.ai). Install: `curl -fsSL https://opencode.ai/v2/install | bash` (or `brew install anomalyco/tap/opencode-v2` / `npm i -g @opencode/cli@latest`).
 - **[Command Code](https://commandcode.ai)** — Coding agent tuned for open models (tool-call repairs, token-efficient tools, taste learning). Alternative to Claude Code / Cursor / OpenCode / Copilot; also used as a model API by community providers. Site: [commandcode.ai](https://commandcode.ai).
 - **[Freebuff](https://github.com/CodebuffAI/codebuff)** — Free coding agent (browser, desktop, CLI): frontier models funded by ads, no subscription. Site: [freebuff.com](https://freebuff.com/).
+- **[Qoder](https://qoder.com)** — Agentic coding platform / AI programming IDE: conversational coding, completion, code generation; VS Code & JetBrains. Site: [qoder.com](https://qoder.com).
+- **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** — Open-source agent harness (“everything is a plugin” via Cordis): docs, data, coding, scheduled tasks; desktop + web; composable community plugins. Site: [deepseek.com/en/harness](https://www.deepseek.com/en/harness/).
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
 See also: [Claude Code plugins](../claude-code/plugins.md) for the installed ECC plugin.
