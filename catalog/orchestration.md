@@ -16,6 +16,7 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[Traycer](https://github.com/traycerai/traycer)** — Open-source AI orchestration desktop app (“nerve center” for agentic coding): BYOA, shared context across models/providers, agent-to-agent loops, collaboration boards. Site: [traycer.ai](https://traycer.ai). Docs: [docs.traycer.ai](https://docs.traycer.ai).
 - **[OpenCode](https://github.com/anomalyco/opencode)** — Open-source AI coding agent (TUI, desktop, IDE): multi-session, any provider via Models.dev, free models included. Site: [opencode.ai](https://opencode.ai). Install: `curl -fsSL https://opencode.ai/v2/install | bash` (or `brew install anomalyco/tap/opencode-v2` / `npm i -g @opencode/cli@latest`).
 - **[Command Code](https://commandcode.ai)** — Coding agent tuned for open models (tool-call repairs, token-efficient tools, taste learning). Alternative to Claude Code / Cursor / OpenCode / Copilot; also used as a model API by community providers. Site: [commandcode.ai](https://commandcode.ai).
+- **[Freebuff](https://github.com/CodebuffAI/codebuff)** — Free coding agent (browser, desktop, CLI): frontier models funded by ads, no subscription. Site: [freebuff.com](https://freebuff.com/).
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
 See also: [Claude Code plugins](../claude-code/plugins.md) for the installed ECC plugin.
