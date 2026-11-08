@@ -1,6 +1,6 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-11-04
+**Last Updated:** 2026-11-08
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
@@ -21,3 +21,4 @@ These are installed in the Claude Code harness; see [claude-code/skills.md](../c
 - **[UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** — AI design-intelligence skill (79 searchable UI styles, design-system generator). Site: [uupm.cc](https://uupm.cc/). Install CLI: `npm install -g ui-ux-pro-max-cli` then `uipro init --ai <assistant>`. Claude Code: `/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill` then `/plugin install ui-ux-pro-max@ui-ux-pro-max-skill`.
 - **[Impeccable](https://impeccable.style/)** — Complete design vocabulary for agents (critique, audit, polish, and more).
 - **[Emil Kowalski skills](https://emilkowal.ski/skill)** — Design engineering and animation (13 skills).
+- **[Interface Design](https://github.com/Dammyjay93/interface-design)** — Design-engineering skill for Claude Code and other agents, aimed at dashboards, apps, and admin panels (not marketing sites). Principle-based craft plus memory: saves spacing, color, and depth decisions to `.interface-design/system.md` and reloads them each session for consistent UI. Site: [interface-design.dev](https://interface-design.dev). Install: `npx skills add https://github.com/dammyjay93/interface-design --skill interface-design`.
