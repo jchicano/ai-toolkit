@@ -1,6 +1,6 @@
 # AI Agent Orchestration & Routing
 
-**Last Updated:** 2026-11-06
+**Last Updated:** 2026-11-08
 
 Tools for coordinating, routing, and running AI coding agents.
 
@@ -15,6 +15,7 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[Pi](https://github.com/earendil-works/pi)** — Minimal, extensible coding-agent harness (unified LLM API, agent loop, TUI, CLI/SDK). Customize with extensions, skills, prompt templates, themes; share as Pi packages. Site: [pi.dev](https://pi.dev). Install: `curl -fsSL https://pi.dev/install.sh | sh` (or `npm i -g --ignore-scripts @earendil-works/pi-coding-agent`).
 - **[Traycer](https://github.com/traycerai/traycer)** — Open-source AI orchestration desktop app (“nerve center” for agentic coding): BYOA, shared context across models/providers, agent-to-agent loops, collaboration boards. Site: [traycer.ai](https://traycer.ai). Docs: [docs.traycer.ai](https://docs.traycer.ai).
 - **[OpenCode](https://github.com/anomalyco/opencode)** — Open-source AI coding agent (TUI, desktop, IDE): multi-session, any provider via Models.dev, free models included. Site: [opencode.ai](https://opencode.ai). Install: `curl -fsSL https://opencode.ai/v2/install | bash` (or `brew install anomalyco/tap/opencode-v2` / `npm i -g @opencode/cli@latest`).
+- **[OpenAgents Control (OAC)](https://github.com/darrenhinde/OpenAgentsControl)** — Agent framework on top of OpenCode: plan-first workflows with approval gates, agents that load your project patterns as context, editable markdown agents, built-in testing and code review. Model agnostic. Install: `curl -fsSL https://raw.githubusercontent.com/darrenhinde/OpenAgentsControl/main/install.sh | bash -s developer`. Note: current version targets OpenCode v1; a rewrite is announced.
 - **[Command Code](https://commandcode.ai)** — Coding agent tuned for open models (tool-call repairs, token-efficient tools, taste learning). Alternative to Claude Code / Cursor / OpenCode / Copilot; also used as a model API by community providers. Site: [commandcode.ai](https://commandcode.ai).
 - **[Freebuff](https://github.com/CodebuffAI/codebuff)** — Free coding agent (browser, desktop, CLI): frontier models funded by ads, no subscription. Site: [freebuff.com](https://freebuff.com/).
 - **[Qoder](https://qoder.com)** — Agentic coding platform / AI programming IDE: conversational coding, completion, code generation; VS Code & JetBrains. Site: [qoder.com](https://qoder.com).
