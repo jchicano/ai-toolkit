@@ -33,7 +33,7 @@ Complete Claude Code configuration reference: ECC harness, plugins, skills, tool
 
 ## Related projects
 
-Curated in the catalog: [orchestration](../catalog/orchestration.md) (ECC, CAO), [gateways](../catalog/gateways.md) (OmniRoute), [design](../catalog/design.md) (claude-webkit, Awesome Design.md, Refero Styles), [browser testing](../catalog/browser-testing.md) (Playwright, Browser MCP), [skill management](../catalog/skill-management.md) (skills.sh, Claude Plugins Official).
+Curated in the catalog: [orchestration](../catalog/orchestration.md) (ECC, CAO), [gateways](../catalog/gateways.md) (OmniRoute), [design](../catalog/design.md) (claude-webkit, Awesome Design.md, Refero Styles), [browser testing](../catalog/browser-testing.md) (Playwright, Browser MCP), [skill management](../catalog/skill-management.md) (skills.sh, SkillsMP, Claude Plugins Official).
 
 ## Notes
 

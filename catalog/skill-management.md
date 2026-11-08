@@ -1,10 +1,11 @@
 # Skill Management
 
-**Last Updated:** 2026-11-04
+**Last Updated:** 2026-11-08
 
 Where to find, assess, and install agent skills and plugins.
 
 - **[skills.sh](https://skills.sh/)** — Skill discovery and security assessments.
+- **[SkillsMP](https://skillsmp.com/)** — Community marketplace indexing millions of open-source agent skills from GitHub (Claude Code, Codex CLI, ChatGPT). Browse by category, occupation, or keyword; free REST API and MCP server (account needed for MCP, daily free quota).
 - **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** — Official Claude Code plugin repository.
 - **[Knowledge Work Plugins](https://github.com/anthropics/knowledge-work-plugins)** — Anthropic’s open-source marketplace of 11 role plugins for [Claude Cowork](https://claude.com/product/cowork) (also Claude Code): sales, marketing, product, finance, legal, data, support, productivity, enterprise search, bio-research, plus plugin management. Skills + slash commands + MCP connectors. Install: `claude plugin marketplace add anthropics/knowledge-work-plugins` then e.g. `claude plugin install sales@knowledge-work-plugins`. Browse: [claude.com/plugins](https://claude.com/plugins/).
 - **[Caveman](https://github.com/juliusbrussee/caveman)** — Skill + proxy that cuts agent tokens by talking in a terse “caveman” voice while keeping code exact. Claims large input-token savings across many agents. Install notes in the repo `INSTALL.md`.
