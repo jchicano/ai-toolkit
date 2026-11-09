@@ -17,6 +17,8 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 | [context.md](context.md) | Context & codebase packing |
 | [simulation.md](simulation.md) | Multi-agent simulation & prediction |
 | [reverse-engineering.md](reverse-engineering.md) | Reverse engineering & binary analysis |
+| [media.md](media.md) | Media, screen recording & voice |
+| [dev-utilities.md](dev-utilities.md) | GitHub URL-swap / repo-to-LLM utilities |
 
 ## How to add an entry
 

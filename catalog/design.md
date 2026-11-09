@@ -1,11 +1,12 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-11-08
+**Last Updated:** 2026-11-09
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
 ## Tools
 - **[Anime.js](https://animejs.com/)** — JavaScript animation engine ([juliangarnier/anime](https://github.com/juliangarnier/anime)). Lightweight API for timeline, stagger, SVG, and CSS-driven motion in the browser.
+- **[Motion](https://motion.dev/)** — Production animation library for React, JavaScript, and Vue (formerly Framer Motion): layout, scroll, gestures, springs, 3D. Free and open source; agent-friendly docs/examples via Motion AI. Install: `npm install motion` (optional: `npx motion-ai`).
 - **[claude-webkit](https://github.com/hainrixz/claude-webkit)** — Automated landing page builder. No-code website generator with 21 bundled skills, professional design output, and Vercel deployment.
 - **[HTML Anything](https://github.com/nexu-io/html-anything)** — Agentic HTML editor: local coding-agent CLI writes ship-ready HTML (75 skills × 9 surfaces: magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes). Sandboxed preview; export WeChat/X/Zhihu/HTML/PNG. No API key. Site: [open-design.ai/html-anything](https://open-design.ai/html-anything/). Run: `pnpm install` then `pnpm -F @html-anything/next dev`.
 - **[MotionSites](https://motionsites.ai/)** — Library of AI website prompts and motion/3D landing-page inspiration for Lovable, Bolt, Cursor, and Claude. Free Claude skill: [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (`/plugin marketplace add Motionsites-AI/claude-skill` then `/plugin install motionsites-web-builder@motionsites`).
@@ -22,3 +23,8 @@ These are installed in the Claude Code harness; see [claude-code/skills.md](../c
 - **[Impeccable](https://impeccable.style/)** — Complete design vocabulary for agents (critique, audit, polish, and more).
 - **[Emil Kowalski skills](https://emilkowal.ski/skill)** — Design engineering and animation (13 skills).
 - **[Interface Design](https://github.com/Dammyjay93/interface-design)** — Design-engineering skill for Claude Code and other agents, aimed at dashboards, apps, and admin panels (not marketing sites). Principle-based craft plus memory: saves spacing, color, and depth decisions to `.interface-design/system.md` and reloads them each session for consistent UI. Site: [interface-design.dev](https://interface-design.dev). Install: `npx skills add https://github.com/dammyjay93/interface-design --skill interface-design`.
+- **[Apple Design Skill](https://github.com/dickwu/apple-design-skill)** — Cross-platform UI/UX design reviewer grounded in Apple’s Human Interface Guidelines (123 HIG pages). Works with Flutter, React Native, Tauri, Electron, SwiftUI, UIKit, AppKit; Claude Code, Cursor, Codex, and more. Install: `npx skills add dickwu/apple-design-skill`.
+
+## UI components
+- **[Kokonut UI](https://github.com/kokonut-labs/kokonutui)** — 100+ open-source React components built with Tailwind CSS, Motion, and shadcn/ui (AI, buttons, forms, and more). Install via shadcn registry. Site: [kokonutui.com](https://kokonutui.com). Example: `npx shadcn@latest add @kokonutui/slide-to-confirm`.
+- **[Bklit UI](https://github.com/bklit/bklit-ui)** — Open-source charts and utility UI components (shadcn registry) with interactive Studio. Site: [ui.bklit.com](https://ui.bklit.com) / [bklit.com](https://bklit.com). Example: `npx shadcn@latest add @bklit/line-chart`.

@@ -21,7 +21,9 @@ ai-toolkit/
 │   ├── launch.md
 │   ├── context.md
 │   ├── simulation.md
-│   └── reverse-engineering.md
+│   ├── reverse-engineering.md
+│   ├── media.md
+│   └── dev-utilities.md
 ├── claude-code/               # Claude Code harness reference
 │   ├── README.md
 │   ├── harness.md
@@ -49,6 +51,8 @@ ai-toolkit/
 - [Context & Codebase Packing](catalog/context.md)
 - [Multi-Agent Simulation & Prediction](catalog/simulation.md)
 - [Reverse Engineering & Binary Analysis](catalog/reverse-engineering.md)
+- [Media & Voice](catalog/media.md)
+- [Dev Utilities (GitHub URL tricks)](catalog/dev-utilities.md)
 
 ### Claude Code harness
 - [Overview](claude-code/README.md)
