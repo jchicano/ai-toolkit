@@ -1,6 +1,6 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-11-09
+**Last Updated:** 2026-11-10
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
@@ -28,3 +28,8 @@ These are installed in the Claude Code harness; see [claude-code/skills.md](../c
 ## UI components
 - **[Kokonut UI](https://github.com/kokonut-labs/kokonutui)** — 100+ open-source React components built with Tailwind CSS, Motion, and shadcn/ui (AI, buttons, forms, and more). Install via shadcn registry. Site: [kokonutui.com](https://kokonutui.com). Example: `npx shadcn@latest add @kokonutui/slide-to-confirm`.
 - **[Bklit UI](https://github.com/bklit/bklit-ui)** — Open-source charts and utility UI components (shadcn registry) with interactive Studio. Site: [ui.bklit.com](https://ui.bklit.com) / [bklit.com](https://bklit.com). Example: `npx shadcn@latest add @bklit/line-chart`.
+- **[React Bits](https://github.com/DavidHDev/react-bits)** — Large open-source library of animated, interactive React/Next.js components (built for humans and AI agents). Site: [reactbits.dev](https://reactbits.dev). Example: `npx shadcn@latest add @react-bits/SplitText-TS-TW`.
+- **[VengeanceUI](https://github.com/Ashutoshx7/VengenceUI)** — Animated copy-paste React/Next.js components for landing pages (Tailwind + Framer Motion). Site: [vengenceui.com](https://www.vengenceui.com/).
+- **[Animate UI](https://github.com/imskyleen/animate-ui)** — Fully animated open-source component distribution (React, TypeScript, Tailwind, Motion, shadcn CLI) for Radix/Base UI/React Aria. Site: [animate-ui.com](https://animate-ui.com). Example: `npx @animate-ui/cli@latest animate all`.
+- **[Uiverse Galaxy](https://github.com/uiverse-io/galaxy)** — Large community open-source UI library (CSS or Tailwind); browse and copy free elements. Site: [uiverse.io](https://uiverse.io).
+- **[ForgeUI](https://github.com/AmanShakya0018/forgeui)** — Animation-first React component library (shadcn/ui + Framer Motion) for interactive UI. Site: [forgeui.in](https://forgeui.in).

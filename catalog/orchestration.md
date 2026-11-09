@@ -1,6 +1,6 @@
 # AI Agent Orchestration & Routing
 
-**Last Updated:** 2026-11-09
+**Last Updated:** 2026-11-10
 
 Tools for coordinating, routing, and running AI coding agents.
 
@@ -21,6 +21,7 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[Freebuff](https://github.com/CodebuffAI/codebuff)** — Free coding agent (browser, desktop, CLI): frontier models funded by ads, no subscription. Site: [freebuff.com](https://freebuff.com/).
 - **[Qoder](https://qoder.com)** — Agentic coding platform / AI programming IDE: conversational coding, completion, code generation; VS Code & JetBrains. Site: [qoder.com](https://qoder.com).
 - **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** — Open-source agent harness (“everything is a plugin” via Cordis): docs, data, coding, scheduled tasks; desktop + web; composable community plugins. Site: [deepseek.com/en/harness](https://www.deepseek.com/en/harness/).
+- **[Ruflo](https://github.com/ruvnet/ruflo)** — Agent meta-harness for Claude Code, Codex, and more: multi-agent swarms, adaptive memory, federation, MCP, and a visual console. Site: [cognitum.one](https://cognitum.one). Install: `npx ruflo@latest init` (or Claude Code plugins via `/plugin marketplace add ruvnet/ruflo`).
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
 See also: [Claude Code plugins](../claude-code/plugins.md) for the installed ECC plugin.
