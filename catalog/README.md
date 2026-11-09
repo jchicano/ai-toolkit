@@ -1,6 +1,6 @@
 # Catalog
 
-**Last Updated:** 2026-11-09
+**Last Updated:** 2026-11-10
 
 Curated public AI tools, skills, plugins, and resources, grouped by category. Each file is a short list of links with one-line descriptions (install notes when useful).
 
@@ -19,6 +19,7 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 | [reverse-engineering.md](reverse-engineering.md) | Reverse engineering & binary analysis |
 | [media.md](media.md) | Media, screen recording & voice |
 | [dev-utilities.md](dev-utilities.md) | GitHub URL-swap / repo-to-LLM utilities |
+| [career.md](career.md) | Career & job search |
 
 ## How to add an entry
 
