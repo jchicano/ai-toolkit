@@ -8,7 +8,7 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 |------|----------|
 | [orchestration.md](orchestration.md) | AI agent orchestration & routing |
 | [design.md](design.md) | Frontend & design tools |
-| [gateways.md](gateways.md) | AI gateways & provider consolidation |
+| [gateways.md](gateways.md) | AI gateways, provider consolidation & local model apps |
 | [browser-testing.md](browser-testing.md) | Browser automation & testing |
 | [skill-management.md](skill-management.md) | Skill discovery, plugins, install notes |
 | [marketing.md](marketing.md) | Marketing & growth packs |

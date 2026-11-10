@@ -1,6 +1,6 @@
 # AI Gateways & Provider Consolidation
 
-**Last Updated:** 2026-11-06
+**Last Updated:** 2026-11-10
 
 Single endpoints that unify access to multiple AI providers.
 
@@ -8,3 +8,7 @@ Single endpoints that unify access to multiple AI providers.
 - **[FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi)** — Aggregates free LLM tiers (34 providers, 635 free endpoints, ~7.4B tokens/month claimed) behind one OpenAI-compatible `/v1` API with smart routing, failover, and encrypted keys. Site: [freellmapi.co](https://freellmapi.co/). Personal experimentation only.
 - **[DeepRelay](https://deeprelay.ai)** — Inference relay for frontier open models (DeepSeek, GLM, Kimi): chat, image & video on one flat subscription.
 - **[Token Harbor](https://tokenharbor.ai)** — One OpenAI-compatible API for GPT, Claude, Gemini, DeepSeek and more: encrypted keys, automatic failover, per-token pricing, free tier.
+
+## Local & self-hosted model apps
+
+- **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** — MIT-licensed, local-first all-in-one AI app by Mintplex Labs: chat with your documents (built-in RAG), no-code agents and MCP support, using local models (Ollama, LM Studio, built-in runner) or any cloud provider. Desktop app for macOS/Windows/Linux, or self-host via Docker. Site: [anythingllm.com](https://anythingllm.com/). Install: `brew install --cask anythingllm`.
