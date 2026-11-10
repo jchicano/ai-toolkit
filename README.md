@@ -22,6 +22,7 @@ ai-toolkit/
 │   ├── context.md
 │   ├── simulation.md
 │   ├── reverse-engineering.md
+│   ├── security.md
 │   ├── media.md
 │   ├── dev-utilities.md
 │   └── career.md
@@ -52,6 +53,7 @@ ai-toolkit/
 - [Context & Codebase Packing](catalog/context.md)
 - [Multi-Agent Simulation & Prediction](catalog/simulation.md)
 - [Reverse Engineering & Binary Analysis](catalog/reverse-engineering.md)
+- [Security & Pentesting](catalog/security.md)
 - [Media & Voice](catalog/media.md)
 - [Dev Utilities (GitHub URL tricks)](catalog/dev-utilities.md)
 - [Career & Job Search](catalog/career.md)
