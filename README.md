@@ -23,6 +23,7 @@ ai-toolkit/
 │   ├── simulation.md
 │   ├── reverse-engineering.md
 │   ├── security.md
+│   ├── agent-infrastructure.md
 │   ├── media.md
 │   ├── dev-utilities.md
 │   └── career.md
@@ -54,6 +55,7 @@ ai-toolkit/
 - [Multi-Agent Simulation & Prediction](catalog/simulation.md)
 - [Reverse Engineering & Binary Analysis](catalog/reverse-engineering.md)
 - [Security & Pentesting](catalog/security.md)
+- [Agent Infrastructure & Services](catalog/agent-infrastructure.md)
 - [Media & Voice](catalog/media.md)
 - [Dev Utilities (GitHub URL tricks)](catalog/dev-utilities.md)
 - [Career & Job Search](catalog/career.md)
