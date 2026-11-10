@@ -1,6 +1,6 @@
 # Context & Codebase Packing
 
-**Last Updated:** 2026-11-04
+**Last Updated:** 2026-11-10
 
 Tools that pack repositories or projects into AI-friendly context for LLMs.
 
@@ -9,3 +9,4 @@ Tools that pack repositories or projects into AI-friendly context for LLMs.
 - **[claude-mem](https://github.com/thedotmack/claude-mem)** — Persistent cross-session memory for coding agents: captures session work, compresses it with AI, and reinjects relevant context later. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode, and more. Site: [claude-mem.ai](https://claude-mem.ai). See also [claude-code/plugins.md](../claude-code/plugins.md).
 - **[CodeGraph](https://github.com/colbymchenry/codegraph)** — Local pre-indexed code knowledge graph that auto-syncs on changes; gives agents surgical context with fewer tokens/tool calls. Works with Claude Code, Cursor, Codex, Copilot, OpenCode, and more. Docs: [colbymchenry.github.io/codegraph](https://colbymchenry.github.io/codegraph/).
 - **[Trail-code](https://github.com/trailhq/Trail-Code)** — Self-learning context layer for coding agents: local code map (graft) + team learnings so Claude Code, Cursor, Codex, and others pick up decisions and impact radius. Site: [trailhq.com/trail-code](https://trailhq.com/trail-code). Install: `npm install -g @trailhq/trail-code && trail init`.
+- **[codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** — MIT-licensed local code intelligence (~48k★): indexes code, docs and infrastructure into a persistent graph exposed through 17 MCP tools, with Hybrid LSP type resolution, change-aware test selection and an optional browser UI (CBM Lens). Installer auto-configures 40+ agent clients; no hosted service or API key. Docs: [deusdata.github.io/codebase-memory-mcp](https://deusdata.github.io/codebase-memory-mcp/). Install (macOS/Linux): `curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash`.
