@@ -1,6 +1,6 @@
 # AI Agent Orchestration & Routing
 
-**Last Updated:** 2026-11-10
+**Last Updated:** 2026-11-13
 
 Tools for coordinating, routing, and running AI coding agents.
 
@@ -20,6 +20,9 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[OpenAgents Control (OAC)](https://github.com/darrenhinde/OpenAgentsControl)** — Agent framework on top of OpenCode: plan-first workflows with approval gates, agents that load your project patterns as context, editable markdown agents, built-in testing and code review. Model agnostic. Install: `curl -fsSL https://raw.githubusercontent.com/darrenhinde/OpenAgentsControl/main/install.sh | bash -s developer`. Note: current version targets OpenCode v1; a rewrite is announced.
 - **[Ruflo](https://github.com/ruvnet/ruflo)** — Agent meta-harness for Claude Code, Codex, and more: multi-agent swarms, adaptive memory, federation, MCP, and a visual console. Site: [cognitum.one](https://cognitum.one). Install: `npx ruflo@latest init` (or Claude Code plugins via `/plugin marketplace add ruvnet/ruflo`).
 - **[Loop Engineering](https://github.com/cobusgreyling/loop-engineering)** — MIT pattern library + CLI for running coding agents in loops instead of prompting by hand: patterns like daily triage, PR babysitter, CI/dependency sweepers and changelog drafter, plus `loop-audit`, `loop-init`, `loop-cost` tools. Works with Claude Code, Codex, OpenCode, Grok. Site: [showcase](https://cobusgreyling.github.io/loop-engineering/). Start: `npx @cobusgreyling/loop init . --pattern daily-triage --tool claude`.
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** — Platform for a team of AI specialists (content, sales, research, recurring work) coordinated in plain English, with a visual workflow builder, marketplace, API, and MCP server. Hosted Platform (paid) or self-host (bring your own model keys). Site: [agpt.co](https://agpt.co). Docs: [agpt.co/docs](https://agpt.co/docs). Self-host: `docker run` the [`significantgravitas/autogpt`](https://hub.docker.com/r/significantgravitas/autogpt) image (see the [single-container guide](https://agpt.co/docs/platform/self-hosting/single-container)).
+- **[AgentRun](https://github.com/Parcha-ai/agentrun)** — Apache-2.0 control plane on top of your existing harness (Claude Code, Codex, OpenCode, or Pi): agents keep notes/skills from each run, execution is durable if the server restarts, with approvals, spend caps, and a console. Site: [agentrun.ai](https://agentrun.ai). Docs: [agentrun.ai/docs](https://agentrun.ai/docs). Install: `npx @parcha/agentrun` (macOS/Linux, Node 24.22.3+).
+- **[Claudexor](https://github.com/razzant/claudexor)** — Local-first control plane for the coding agents you already pay for (Codex, Claude Code, Cursor CLI, OpenCode, Antigravity, Grok Build, or raw APIs): shared threads, inspectable patches, best-of-N races with cross-harness review, and quota-aware credential profiles. No telemetry. Site: [claudexor.ai](https://claudexor.ai/). Install: `npm install -g claudexor` then `claudexor doctor`. macOS app (26+): [releases](https://github.com/razzant/claudexor/releases/latest).
 
 ## Coding agents (CLI / IDE)
 
