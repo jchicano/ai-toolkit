@@ -1,6 +1,6 @@
 # Catalog
 
-**Last Updated:** 2026-11-10
+**Last Updated:** 2026-11-13
 
 Curated public AI tools, skills, plugins, and resources, grouped by category. Each file is a short list of links with one-line descriptions (install notes when useful).
 
@@ -19,6 +19,7 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 | [reverse-engineering.md](reverse-engineering.md) | Reverse engineering & binary analysis |
 | [security.md](security.md) | Security & pentesting agents |
 | [agent-infrastructure.md](agent-infrastructure.md) | Agent infrastructure & services (email, identity) |
+| [personal-assistants.md](personal-assistants.md) | Self-hosted personal AI assistants |
 | [media.md](media.md) | Media, screen recording & voice |
 | [dev-utilities.md](dev-utilities.md) | GitHub URL-swap / repo-to-LLM utilities |
 | [career.md](career.md) | Career & job search |
