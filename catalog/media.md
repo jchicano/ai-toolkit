@@ -1,6 +1,6 @@
 # Media & Voice
 
-**Last Updated:** 2026-11-13
+**Last Updated:** 2026-11-20
 
 Screen recording, short-form video, and local voice tools useful for demos and content.
 
@@ -11,3 +11,4 @@ Screen recording, short-form video, and local voice tools useful for demos and c
 - **[video-use](https://github.com/browser-use/video-use)** — Open-source skill for editing videos with coding agents (Claude Code, Codex, Hermes, OpenClaw, …): drop raw footage in a folder, chat, get `final.mp4` (filler-word cuts, color grade, subtitles, animation overlays, self-eval). Site: [video-use.com](https://video-use.com). Setup: point your agent at the repo and have it follow `install.md`, or `git clone` and `uv sync` (needs `ffmpeg` and an ElevenLabs API key for transcription).
 - **[Summarize](https://github.com/steipete/summarize)** — CLI and Chrome/Firefox extension that extracts text and summarizes web pages, files, YouTube, podcasts, and other audio/video. Site: [summarize.sh](https://summarize.sh). Install: `brew install summarize` (or `npm install --global @steipete/summarize`). Chrome: [Summarize Side Panel](https://chromewebstore.google.com/detail/summarize/cejgnmmhbbpdmjnfppjdfkocebngehfg).
 - **[Kimu Video Editor](https://github.com/trykimu/videoeditor)** — Open-source, AI-assisted video editor (CapCut/Canva-style): multi-track timeline, realtime preview, a “Vibe” assistant that turns a description into edits, media library, and cloud-synced projects. Site: [trykimu.com](https://trykimu.com). Self-host: `docker compose up -d`.
+- **[NeonClipping](https://github.com/iamajmeena/neonclipping)** — MIT, fully local clipping engine: paste a YouTube/Twitch/Kick link (or MP4) and get captioned 9:16 vertical clips with a title and hook in ~2 min. Audio-first moment detection, YouTube captions or local Whisper, local LLM (Ollama) scoring; learns from your ratings. No account or upload. Site: [iamajmeena.github.io/neonclipping](https://iamajmeena.github.io/neonclipping/) (one-click Windows setup).
