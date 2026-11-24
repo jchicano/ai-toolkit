@@ -1,6 +1,6 @@
 # Frontend & Design Tools
 
-**Last Updated:** 2026-11-10
+**Last Updated:** 2026-11-24
 
 Design systems, UI generators, and design-focused resources for AI agents.
 
@@ -10,6 +10,11 @@ Design systems, UI generators, and design-focused resources for AI agents.
 - **[claude-webkit](https://github.com/hainrixz/claude-webkit)** — Automated landing page builder. No-code website generator with 21 bundled skills, professional design output, and Vercel deployment.
 - **[HTML Anything](https://github.com/nexu-io/html-anything)** — Agentic HTML editor: local coding-agent CLI writes ship-ready HTML (75 skills × 9 surfaces: magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes). Sandboxed preview; export WeChat/X/Zhihu/HTML/PNG. No API key. Site: [open-design.ai/html-anything](https://open-design.ai/html-anything/). Run: `pnpm install` then `pnpm -F @html-anything/next dev`.
 - **[MotionSites](https://motionsites.ai/)** — Library of AI website prompts and motion/3D landing-page inspiration for Lovable, Bolt, Cursor, and Claude. Free Claude skill: [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) (`/plugin marketplace add Motionsites-AI/claude-skill` then `/plugin install motionsites-web-builder@motionsites`).
+- **[LandingPagePrompts](https://landingpageprompts.com/)** — ~640 free landing-page, hero, and portfolio designs with live previews; copy each page's full design brief into Cursor, Claude Code, Codex, Lovable, Bolt, or v0. Prompts are MIT (original) or CC BY 4.0 (community).
+- **[design.dev Templates](https://design.dev/templates/)** — Free copy-paste prompt templates for landing pages and UI components (WebGL, 3D, text effects, chat UIs) with live demos; prompts pin exact colors, sizes, and easing. Free for personal and commercial use.
+- **[Herofold](https://herofold.dev/)** — 212 live landing pages plus blocks and motion components, each with its prompt, `DESIGN.md`, and code. Free and Pro tiers.
+- **[Design Hub](https://dsgnhub.org/prompts/)** — Gallery of 631 animated sections and full pages; hover to preview, then open the prompt for Lovable, Cursor, Bolt, or Claude. Free and Pro prompts (Pro via MotionSites).
+- **[Ping](https://ping.design/)** — 36 hand-picked real websites (Linear, Stripe, Vercel, …), each with a style prompt, hex palette, fonts with free alternatives, downloadable `DESIGN.md`, and CSS variables. Free.
 
 ## Design systems (DESIGN.md)
 - **[DESIGN.md (Google Labs)](https://github.com/google-labs-code/design.md)** — Format spec for describing a visual identity to coding agents (tokens + rationale). Lint/diff CLI: `npx @google/design.md lint DESIGN.md`. Spec: [stitch.withgoogle.com/docs/design-md/specification](https://stitch.withgoogle.com/docs/design-md/specification).
