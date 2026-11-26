@@ -1,6 +1,6 @@
 # AI Agent Orchestration & Routing
 
-**Last Updated:** 2026-11-25
+**Last Updated:** 2026-11-26
 
 Tools for coordinating, routing, and running AI coding agents.
 
@@ -56,6 +56,7 @@ Tools for coordinating, routing, and running AI coding agents.
 - **[Zed](https://zed.dev/)** — Open-source high-performance collaborative IDE by Zed Industries (creators of Atom and Tree-sitter); built-in Agent Panel plus ACP to connect other coding agents. Source: [zed-industries/zed](https://github.com/zed-industries/zed). Homebrew: `brew install --cask zed`.
 - **[Stakpak](https://stakpak.dev/)** — Open-source (Apache-2.0, Rust) agent that runs on your machines 24/7 to keep apps running in production (auto-healing, cost watchdog, secret redaction, network sandbox)—not a typical coding agent. Source: [stakpak/agent](https://github.com/stakpak/agent). Install: `curl -sSL https://stakpak.dev/install.sh | sh`.
 - **[VT Code](https://github.com/vinhnx/VTCode)** — Open-source (MIT/Apache-2.0) local-first coding agent for the terminal and a native macOS desktop app; planning, sandboxed policy, MCP, and hosted or local models. Site: [vinhnx.github.io/VTCode](https://vinhnx.github.io/VTCode/). Install: `curl -fsSL https://raw.githubusercontent.com/vinhnx/VTCode/main/scripts/install.sh | bash` (or `brew install vtcode`).
+- **[TmuxAI](https://tmuxai.dev/)** — Open-source (Apache-2.0, Go) non-intrusive terminal assistant that lives in a tmux pane: reads your other panes (commands, output, errors) like a pair programmer and suggests or runs commands with your approval. Observe, Prepare and Watch modes, any OpenAI-compatible model. Linux/macOS. Repo: [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai). Install: `brew install tmuxai` or `curl -fsSL https://get.tmuxai.dev | bash`.
 
 - **[OmniRoute — Free AI Gateway](https://github.com/diegosouzapw/OmniRoute)** — Routes many AI providers through one endpoint. See [gateways.md](gateways.md) for details.
 
