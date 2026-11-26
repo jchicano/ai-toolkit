@@ -18,7 +18,7 @@ Curated public AI tools, skills, plugins, and resources, grouped by category. Ea
 | [simulation.md](simulation.md) | Multi-agent simulation & prediction |
 | [reverse-engineering.md](reverse-engineering.md) | Reverse engineering & binary analysis |
 | [security.md](security.md) | Security & pentesting agents |
-| [agent-infrastructure.md](agent-infrastructure.md) | Agent infrastructure & services (email, identity, web access) |
+| [agent-infrastructure.md](agent-infrastructure.md) | Agent infrastructure & services (email, identity, app connectors, web access) |
 | [personal-assistants.md](personal-assistants.md) | Self-hosted personal AI assistants |
 | [media.md](media.md) | Media, screen recording & voice |
 | [dev-utilities.md](dev-utilities.md) | GitHub URL-swap / repo-to-LLM utilities |
