@@ -1,6 +1,6 @@
 # Skill Management
 
-**Last Updated:** 2026-11-13
+**Last Updated:** 2026-11-27
 
 Where to find, assess, and install agent skills and plugins.
 
@@ -21,6 +21,7 @@ Where to find, assess, and install agent skills and plugins.
 - **[Agent Skills](https://github.com/addyosmani/agent-skills)** (Addy Osmani) — 25 production-grade engineering skills plus slash commands (`/spec`, `/plan`, `/build`, `/test`, `/review`, `/ship`, …) that walk agents through define → plan → build → verify → review → ship. Works with Claude Code, Cursor, Codex, Copilot, Cline, and more. Site: [skills.addy.ie](https://skills.addy.ie). Install: `npx skills add addyosmani/agent-skills`. Claude Code marketplace: `/plugin marketplace add addyosmani/agent-skills` then `/plugin install agent-skills@addy-agent-skills`.
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Curated catalog of OpenClaw skills drawn from [ClawHub](https://clawhub.ai) (the official registry), with spam, duplicates, and known-malicious entries filtered out. Site: [clawskills.sh](https://clawskills.sh/). Install a skill: `openclaw skills install <skill-slug>` (or `npx clawhub install <skill-slug>`).
 - **[Claude for Financial Services](https://github.com/anthropics/financial-services)** — Official Anthropic reference agents, skills, and connectors for investment banking, equity research, private equity, and wealth management (pitch decks, comps/DCF, earnings notes, reconciliations, KYC, and more). Available as Claude Cowork plugins or via the Managed Agents API; outputs are drafts for human review, not advice. Install (Claude Code): `claude plugin marketplace add anthropics/financial-services` then e.g. `claude plugin install financial-analysis@claude-for-financial-services`.
+- **[Obsidian Skills](https://github.com/obsidianmd/obsidian-skills)** — Official Agent Skills from Obsidian (MIT, ~54k★) that teach agents to read, write, link and organize notes in your vault, using Obsidian Markdown, Bases, JSON Canvas and the Obsidian CLI. Works with Claude Code, Codex, Cursor, OpenCode, Copilot, Kiro, Hermes, Grok Bot and other skills-compatible agents. Install: `claude plugin marketplace add obsidianmd/obsidian-skills && claude plugin install obsidian@obsidian-skills`, or `npx skills add https://github.com/obsidianmd/obsidian-skills`; Cursor: [marketplace](https://cursor.com/marketplace/obsidian). Related: [JSON Canvas](https://jsoncanvas.org/) open infinite-canvas format ([obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas)).
 
 ## Install notes
 - Install a skill from GitHub: `npx skills add <github-org>/<repo>`
